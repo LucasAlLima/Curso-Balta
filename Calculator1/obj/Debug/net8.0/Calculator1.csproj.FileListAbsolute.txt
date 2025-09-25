@@ -1,0 +1,14 @@
+C:\dev\Calculator1\bin\Debug\net8.0\Calculator1.exe
+C:\dev\Calculator1\bin\Debug\net8.0\Calculator1.deps.json
+C:\dev\Calculator1\bin\Debug\net8.0\Calculator1.runtimeconfig.json
+C:\dev\Calculator1\bin\Debug\net8.0\Calculator1.dll
+C:\dev\Calculator1\bin\Debug\net8.0\Calculator1.pdb
+C:\dev\Calculator1\obj\Debug\net8.0\Calculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Calculator1\obj\Debug\net8.0\Calculator1.AssemblyInfoInputs.cache
+C:\dev\Calculator1\obj\Debug\net8.0\Calculator1.AssemblyInfo.cs
+C:\dev\Calculator1\obj\Debug\net8.0\Calculator1.csproj.CoreCompileInputs.cache
+C:\dev\Calculator1\obj\Debug\net8.0\Calculator1.dll
+C:\dev\Calculator1\obj\Debug\net8.0\refint\Calculator1.dll
+C:\dev\Calculator1\obj\Debug\net8.0\Calculator1.pdb
+C:\dev\Calculator1\obj\Debug\net8.0\Calculator1.genruntimeconfig.cache
+C:\dev\Calculator1\obj\Debug\net8.0\ref\Calculator1.dll
